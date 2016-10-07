@@ -1,0 +1,36 @@
+.g-content{
+	height: auto;
+	width: 100%;
+	background: #fbe3cc;
+}
+
+.g-lottery-case{
+	margin: 0 auto;
+	width: 500px;
+	height: 445px;
+}
+
+.g-lottery-box{
+	width: 400px;
+    height: 400px;
+        margin-left: 30px;
+	background: url("img/ly-plate-c.gif") no-repeat;
+}
+
+.g-lottery-img{
+	    width: 340px;
+    height: 340px;
+        left: 30px;
+    top: 30px;
+        position: relative;
+	background: url("img/bg-lottery.png") no-repeat;
+}
+
+.playbtn{
+	    width: 186px;
+    height: 186px;
+        top: 77px;
+    left: 77px;
+        position: absolute;
+	background: url("img/playbtn.png") no-repeat;
+}
